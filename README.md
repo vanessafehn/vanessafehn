@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey, I'm Vanessa 👋🏽
+I'm a 29-year-old frontend developer based in Germany, and I'm passionate about learning new skills.
 
-<!--
-**vanessafehn/vanessafehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📦 Toolbox
 
-Here are some ideas to get you started:
+**Frontend Development:** `Angular` `Typescript` `Tailwind` `Angular Material`  
+  
+  **Version Control**: `Git` `GitLab` `Bitbucket`  
+  
+  **Testing:** `Cypress` `Jasmine` `Karma`  
+  
+  **Others:** `Confluence` `Jira`    
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Fun Facts
+- Mr. Robot is my favorite tv show
+- I have been a mac user for the past 12 years
+  
+
+## 📫 Contact
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/vanessafehn/)
